@@ -139,6 +139,20 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.227" />
 
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="67dp"
+        android:layout_height="27dp"
+        android:text="LLAMAR"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.834"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.443" />
+
     <EditText
         android:id="@+id/txtpais"
         android:layout_width="214dp"
